@@ -1,10 +1,17 @@
 **Tokenización de texto**
+
 ![alt text]({E87686FB-6040-4BF2-A370-6DBE1374B6C7}.png)
+
  **Lematización de palabras**
+
 ![alt text]({AAF61F57-4E10-43C5-B2B3-1FFD1B86C65B}.png)
+
  **Frecuencia de palabras**
+
  ![alt text]({34CD5F73-CD5C-4263-8007-9C6AF62A8845}.png)
+
  **Visualización de datos**
+ 
  ![alt text]({05B7B428-BCD7-497A-BC36-F7B858B048DA}.png)
 
  Conceptos clave:
